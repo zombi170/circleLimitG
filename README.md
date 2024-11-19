@@ -13,3 +13,6 @@ This was my third homework for the Graphics course at BME.
 ## Star edge angle
 - 'h' - make it sharper
 - 'H' - make it duller
+
+## Animation
+Press 'a' to start the animation.
